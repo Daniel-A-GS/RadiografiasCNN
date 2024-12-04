@@ -14,7 +14,7 @@
 
 # Contexto
 
-El conjunto de imágenes se obtuvo del sitio [Papers with code](#https://paperswithcode.com/datasets). Es una página de internet que funge como directorio de datasets para Computer Vision o NLP. También contiene distintor artículos científicos relacionados a temas de ML. Dicha página nos redireccionó a una página del [America´s Research Hospital](#https://nihcc.app.box.com/v/ChestXray-NIHCC/) en donde contiene las carpetas donde se encuentran las imágenes con diversas enfermedades y un archivo csv con datos sobre los pacientes y la radiografía tomada.
+El conjunto de imágenes se obtuvo del sitio [Papers with code](https://paperswithcode.com/datasets). Es una página de internet que funge como directorio de datasets para Computer Vision o NLP. También contiene distintor artículos científicos relacionados a temas de ML. Dicha página nos redireccionó a una página del [America´s Research Hospital](https://nihcc.app.box.com/v/ChestXray-NIHCC/) en donde contiene las carpetas donde se encuentran las imágenes con diversas enfermedades y un archivo csv con datos sobre los pacientes y la radiografía tomada.
 
 Una radiografía expone al paciente a una pequeña dosis de radiación ionizante para producir imágenes del interior del cuerpo. Los rayos X son la forma más antigua y la más frecuentada para producir imágenes médicas.
 
