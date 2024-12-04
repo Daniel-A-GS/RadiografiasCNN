@@ -1,4 +1,4 @@
-<img src="./images/Logo_FC.jpg" width="500" height="150" />
+<img src="./images/Logo_FC.jpg" width="300" height="75" />
 
 # Proyecto - Detección de Enfermedades pulmonares
 
@@ -6,6 +6,11 @@
 
 - García Sánchez Daniel Alfredo
 - Guerrero López Jesús Antonio
+
+# Entregables
+
+* [Memoria técnica](dev_model/MEMORIA-TECNICA.md)
+* [Documentación API](documentacion-api.md)
 
 # Contexto
 

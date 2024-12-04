@@ -67,7 +67,7 @@ La cantidad de datos original para condiciones únicas, es decir, que en la radi
 | Pleural_Thickening | 1126  |
 | Cardiomegaly       | 1093  |
 
-Por lo que el tamaño de cada categoría es significativamente diferente. Para ello, tomaremos únicamente 1000 imágenes las cuales redimensionamos a un tamaño de 225x225.
+Por lo que el tamaño de cada categoría es significativamente diferente. Para ello, tomaremos únicamente 1000 imágenes de cada categoría, las cuales redimensionamos a un tamaño de 225x225.
 
 <img src="../images/distribucion_casos_radio.png" width="1000" height="700"/>
 
