@@ -33,7 +33,7 @@ cd CNN-radiografias
 
 ### Carga del modelo
 
-Debido al peso del modelo, no se incluye en este repositorio. El archivo se encuentra en [drive](#https://drive.google.com/file/d/18iZR1U9gi7n2rFyyXZhuKdm7SOcv0HFR/view)
+Debido al peso del modelo, no se incluye en este repositorio. El archivo se encuentra en [drive](https://drive.google.com/file/d/18iZR1U9gi7n2rFyyXZhuKdm7SOcv0HFR/view)
 Por favor, guarda el archivo en la ubicación indicada en la configuración del modelo (/API/models/model.h5).
 
 # End Points de la API
